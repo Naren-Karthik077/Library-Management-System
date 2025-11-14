@@ -114,13 +114,3 @@ DELETE FROM users WHERE user_id=?
 * Include search filters and sorting options
 
 ---
-
-## Team Members
-
-* Kisshor
-* Naren
-* Nithyasri
-
----
-
-If you want, I can also make a **GitHub-friendly README.md** with proper Markdown styling.
